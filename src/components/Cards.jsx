@@ -27,7 +27,7 @@ const Cards = () => {
             href="https://www.linkedin.com/in/temple-ozoadibe-793761256/"
             target="_blank"
             rel="noreferrer"
-            className="block bg-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-center text-white"
+            className="block bg-[#00df9a] hover:bg-red-500 w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-center text-white"
           >
             Get Started
           </a>
@@ -52,7 +52,7 @@ const Cards = () => {
             href="https://www.linkedin.com/in/temple-ozoadibe-793761256/"
             target="_blank"
             rel="noreferrer"
-            className="block bg-black text-[#00df9a] w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-center text-white"
+            className="block bg-black hover:bg-red-500 w-[200px] rounded-md font-medium my-6 mx-auto px-6 py-3 text-center text-white"
           >
             Get Started
           </a>
