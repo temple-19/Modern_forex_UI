@@ -41,7 +41,7 @@ const Cards = () => {
           <h2 className="text-2xl font-bold text-center py-8">Pro Forex</h2>
           <p className="text-center text-4xl font-bold">$150</p>
           <div className="text-center font-medium">
-            <p className="py-2 border-b mx-8 mt-8">Priority Trading Strategy</p>
+            <p className="py-2 border-b mx-8 mt-8">Proprietary Trading Strategy</p>
             <p className="py-2 border-b mx-8 ">Fundamentals to Forex trading</p>
             <p className="py-2 border-b mx-8">Invite to Discord Community</p>
             <p className="py-2 border-b mx-8">1 on 1 training</p>
