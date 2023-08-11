@@ -9,7 +9,7 @@ const Hero = () => {
           FULL MENTORSHIP ON DISCORD
         </p>
         <h1 className="md:text-7xl sm:text-6xl text-4xl font-bold md:py-6">
-          Learn Real STRATEGIES
+          MASTER REAL STRATEGIES
         </h1>
         <div className="flex justify-center items-center">
           <p>
