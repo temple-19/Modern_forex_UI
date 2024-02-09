@@ -21,7 +21,7 @@ const Analytics = () => {
           </p>
 
           <a
-            href="https://www.linkedin.com/in/temple-ozoadibe-793761256/"
+             href="https://www.linkedin.com/in/templeozoadibe"
             target="_blank"
             rel="noreferrer"
             style={{
