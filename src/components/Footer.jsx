@@ -30,7 +30,7 @@ const Footer = () => {
         </p>
         <div className="flex justify-between md:w-[75%] my-6">
           <a
-            href="https://www.linkedin.com/in/temple-ozoadibe-793761256/"
+            href="https://www.linkedin.com/in/templeozoadibe"
             target="_blank"
             rel="noreferrer"
             style={{
@@ -40,7 +40,7 @@ const Footer = () => {
             <FaFacebookSquare size={30} />
           </a>
           <a
-            href="https://www.linkedin.com/in/temple-ozoadibe-793761256/"
+            href="https://www.linkedin.com/in/templeozoadibe"
             target="_blank"
             rel="noreferrer"
             style={{
